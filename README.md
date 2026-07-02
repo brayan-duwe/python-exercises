@@ -16,3 +16,4 @@ This repository is designed to add some Python exercises I made
 | [1 - profit margin report.py](/text%20and%20strings/1%20-%20profit%20margin%20report.py) | Formats numbers as Reais and percentage |
 | [2 - data standardization.py](/text%20and%20strings/2%20-%20data%20standardization.py) | Standardizes emails and names |
 | [3 - server migration.py](/text%20and%20strings/3%20-%20server%20migration.py) | Changes the email domain |
+| [4 - username extraction.py](/text%20and%20strings/4%20-%20username%20extraction.py) | Extract the username from an email address |
