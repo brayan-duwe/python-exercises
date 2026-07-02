@@ -10,3 +10,8 @@ This repository is designed to add some Python exercises I made
 | [3 - load distribution.py](/variables/3%20-%20load%20distribution.py) | Calculates the number of full trucks based on the number of boxes |
 | [4 - profit margin.py](/variables/4%20-%20profit%20margin.py)| Calculates the profit margin and taxes from revenue |
 | [5 - service time.py](/variables/5%20-%20%20service%20time.py)| Time conversion |
+
+| Text and Strings | Functionality |
+| ----- | -------- |
+| [1 - profit margin report.py](/text%20and%20strings/1%20-%20profit%20margin%20report.py) | Formats numbers as Reais and percentage |
+| [2 - data standardization.py](/text%20and%20strings/2%20-%20data%20standardization.py) | Standardizes emails and names |
