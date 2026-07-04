@@ -22,3 +22,4 @@ This repository is designed to add some Python exercises I made
 | Input | Functionality |
 | ----- | -------- |
 | [1 - tax calculator.py](/input/1%20-%20tax%20calculator.py) | Calculates the tax from a value |
+| [2 - employee register.py](/input/2%20-%20employee%20register.py) | Standardizes names and emails from user input |
