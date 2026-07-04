@@ -18,3 +18,7 @@ This repository is designed to add some Python exercises I made
 | [3 - server migration.py](/text%20and%20strings/3%20-%20server%20migration.py) | Changes the email domain |
 | [4 - username extraction.py](/text%20and%20strings/4%20-%20username%20extraction.py) | Extract the username from an email address |
 | [5 - welcome email.py](/text%20and%20strings/5%20-%20welcome%20email.py) | Creates a welcome message from a name |
+
+| Input | Functionality |
+| ----- | -------- |
+| [1 - tax calculator.py](/input/1%20-%20tax%20calculator.py) | Calculates the tax from a value |
