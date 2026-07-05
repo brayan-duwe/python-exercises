@@ -23,3 +23,4 @@ This repository is designed to add some Python exercises I made
 | ----- | -------- |
 | [1 - tax calculator.py](/input/1%20-%20tax%20calculator.py) | Calculates the tax from a value |
 | [2 - employee register.py](/input/2%20-%20employee%20register.py) | Standardizes names and emails from user input |
+| [3 - sales goal.py](/input/3%20-%20sales%20goal.py) | Calculates the average of two revenues |
