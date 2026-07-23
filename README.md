@@ -3,6 +3,12 @@
 This repository is designed to add some Python exercises I made
 
 ## Exercises
+
+| Leet Code |
+| --------- |
+|[1 - Two sum](/LeetCode/1%20-%20Two%20sum.py)|
+
+
 | Variables | Functionality |
 | ----- | -------- |
 | [1 - sales bonus.py](/variables/1%20-%20sales%20bonus.py) | Calculates sales bonus and net revenue |
