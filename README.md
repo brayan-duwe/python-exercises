@@ -8,7 +8,7 @@ This repository is designed to add some Python exercises I made
 | --------- |
 |[1 - Two sum](/LeetCode/1%20-%20Two%20sum.py)|
 |[628 - Maximum Product of Three Numbers](/LeetCode/628%20-%20Maximum%20Product%20of%20Three%20Numbers.py)|
-|[9 - Palindorme number](/LeetCode/9%20-%20Palindorme%20number.py)|
+|[9 - Palindrome number](/LeetCode/9%20-%20Palindorme%20number.py)|
 
 
 | Variables | Functionality |
